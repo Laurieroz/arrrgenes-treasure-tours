@@ -19,7 +19,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 0 1rem;
-  background-color: #522806;
+  background-color: #660000;
   border-bottom: .3rem solid #bea59b;
   color: #fff;
   font-size: 1.25rem;
@@ -79,8 +79,7 @@ body {
   text-align: center;
 }
 
-.banner h2,
-.banner p {
+.banner h2, .banner p {
   margin: 0 0 1.5rem;
 }
 
